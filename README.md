@@ -23,6 +23,13 @@ The goal was to:
 - **Methods** : Funnel Analysis, Cohort Analysis, Segmentation, ROI Estimation
 
 ---
+## Core Skills Applied
+- SQL (Data cleaning, joins, segmentation, KPI preparation)
+- Power BI (DAX measures, funnel analysis, cohort analysis, dashboards)
+- Data Analytics (Funnel optimization, retention analysis, segmentation)
+- Business Analysis (Revenue impact estimation, conversion optimization)
+
+---
 
 ## Solution & Approach
 - Built a **Funnel Optimization Dashboard** in Power BI covering:
