@@ -117,7 +117,7 @@ Funnel Optimization
 ## Funnel Segmentation
 ![Funnel Segmentation by Product, Campaign & Device](images/segmentation.png)
 
-[Live link to full report]()
+
 
 ---
 
